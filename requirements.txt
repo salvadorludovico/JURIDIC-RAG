@@ -1,0 +1,23 @@
+# RAGFusion
+python-dotenv
+pandas
+langchain
+langchain_community
+langchain-chroma
+langchain-google-vertexai
+## Reranker
+sentence_transformers
+## Needed for multilingual BAII/BGE
+FlagEmbedding
+peft
+
+
+# DSPy
+# dspy
+# google-generativeai
+
+# Self-RAG
+langchain_community
+langchainhub
+chromadb
+langchain
